@@ -18,6 +18,10 @@ Thumbs.db
 # Optional cache/build directories
 .cache
 dist
+.env        # Your API keys
+.DS_Store   # Mac system files
+Thumbs.db   # Windows system files
+
 
 # Editor settings
 .vscode/
